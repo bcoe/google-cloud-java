@@ -1,5 +1,7 @@
 # Changelog
 
+### Updating meta-information for bleeding-edge SNAPSHOT release.
+
 ## [1.3.0](https://github.com/bcoe/google-cloud-java/compare/v1.2.0...v1.3.0) (2023-01-16)
 
 

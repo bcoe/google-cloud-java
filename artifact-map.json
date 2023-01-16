@@ -1,3 +1,4 @@
 {
-  "java-eventarc": "com.google.cloud/google-cloud-eventarc"
+  "java-eventarc": "com.google.cloud/google-cloud-eventarc",
+  "java-channel": "com.google.cloud/google-cloud-channel"
 }

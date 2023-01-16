@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.5.0](https://github.com/bcoe/google-cloud-java/compare/v1.4.0...v1.5.0) (2023-01-16)
+
+
+### Features
+
+* added fancy new GRPC feature to eventarc ([21e940e](https://github.com/bcoe/google-cloud-java/commit/21e940ebab21b405c30688875f3e4d6f697a9463))
+
+
+### Bug Fixes
+
+* fixed feature in root of channel ([5589ac5](https://github.com/bcoe/google-cloud-java/commit/5589ac5cf567aee41a0475103c48444ec293bc36))
+
 ## [1.4.0](https://github.com/bcoe/google-cloud-java/compare/v1.3.0...v1.4.0) (2023-01-16)
 
 

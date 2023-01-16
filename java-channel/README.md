@@ -1,5 +1,7 @@
 # Google Channel Services Client for Java
 
+fancy new feature.
+
 Java idiomatic client for [Channel Services][product-docs].
 
 [![Maven][maven-version-image]][maven-version-link]

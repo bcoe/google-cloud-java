@@ -1,6 +1,6 @@
 # Google Eventarc Client for Java
 
-[this is also a test..]
+[this is also a test...]
 
 Java idiomatic client for [Eventarc][product-docs].
 

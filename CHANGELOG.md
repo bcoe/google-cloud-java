@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.0](https://github.com/bcoe/google-cloud-java/compare/v1.3.0...v1.4.0) (2023-01-16)
+
+
+### Features
+
+* feature in java-eventarc ([0874a69](https://github.com/bcoe/google-cloud-java/commit/0874a694137461ec330e978ce660c8b6309f56f1))
+* this is a test of release tooling ([00f8d28](https://github.com/bcoe/google-cloud-java/commit/00f8d28eeda68b8f8d21594c98de88f2e630dca8))
+
 ## [1.3.0](https://github.com/bcoe/google-cloud-java/compare/v1.2.0...v1.3.0) (2023-01-16)
 
 

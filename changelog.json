@@ -5,6 +5,20 @@
       "changes": [
         {
           "type": "feat",
+          "sha": "21af211bc05bb3e38f8d8daa6ae16cc8beba1e03",
+          "message": "feat: an awesome new feature to the grpc.java file (#10)"
+        }
+      ],
+      "version": "1.6.0",
+      "language": "java",
+      "artifactName": "com.google.cloud/google-cloud-eventarc",
+      "id": "ee67e3b1-473b-41a6-9bd6-a29da83a6687",
+      "createTime": "2023-01-16T19:28:42.533Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
           "sha": "21e940ebab21b405c30688875f3e4d6f697a9463",
           "message": "feat: added fancy new GRPC feature to eventarc"
         }
@@ -30,5 +44,5 @@
       "createTime": "2023-01-16T19:10:22.692Z"
     }
   ],
-  "updateTime": "2023-01-16T19:10:22.695Z"
+  "updateTime": "2023-01-16T19:28:42.533Z"
 }

@@ -1,3 +1,62 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "date": "2023-01-16T18:13:34.268Z",
+      "version": "1.4.0",
+      "artifact_name": "",
+      "id": "352a2ce0-5923-47fd-98ce-d1284f6034e4",
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "0874a694137461ec330e978ce660c8b6309f56f1",
+          "message": "feat: feature in java-eventarc"
+        },
+        {
+          "type": "build",
+          "sha": "03158796815b79dbd13c27e7de1453fceeebb8b1",
+          "message": "build: add artifact map"
+        },
+        {
+          "type": "chore",
+          "sha": "b5297096eba5c94a95665704e8c89ecb45e7b15f",
+          "message": "chore: release main (#4)"
+        },
+        {
+          "type": "chore",
+          "sha": "157d8f85fda3739fe25a0067e65804b9ff9cc382",
+          "message": "chore: removing a few more libs"
+        },
+        {
+          "type": "build",
+          "sha": "de2d9ea0d14516b8338e92e2ef5a2c298dccb7e9",
+          "message": "build: remove a few more libraries to speed things up"
+        },
+        {
+          "type": "build",
+          "sha": "9911e7d9867c171ff56576a74d13f982f0b497a8",
+          "message": "build: removing a few more libraries to speed up testing"
+        },
+        {
+          "type": "build",
+          "sha": "ebf9292c5b0563b72507a02d869ad64b9340e08f",
+          "message": "build: fix JSON file"
+        },
+        {
+          "type": "build",
+          "sha": "bbf73f5bbe9a3104822340478235946e3cef1350",
+          "message": "build: remove a few more libraries to speed up testing"
+        },
+        {
+          "type": "feat",
+          "sha": "00f8d28eeda68b8f8d21594c98de88f2e630dca8",
+          "message": "feat: this is a test of release tooling"
+        },
+        {
+          "type": "build",
+          "sha": "f9a0076a59f1fa5bc296d0746cef7e87c5ad6ff6",
+          "message": "build: add a changelog.json"
+        }
+      ]
+    }
+  ]
 }

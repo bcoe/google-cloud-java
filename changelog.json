@@ -1,3 +1,22 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "date": "2023-01-16T18:51:04.540Z",
+      "version": "1.5.0",
+      "artifact_name": "com.google.cloud/google-cloud-eventarc",
+      "id": "4dded753-a8eb-478f-9366-d2669b8f33f0",
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "21e940ebab21b405c30688875f3e4d6f697a9463",
+          "message": "feat: added fancy new GRPC feature to eventarc"
+        },
+        {
+          "type": "chore",
+          "sha": "2e8dfd413296212037b06d38b557c74bcfcfdd99",
+          "message": "chore: release main (#7)"
+        }
+      ]
+    }
+  ]
 }

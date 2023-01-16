@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/bcoe/google-cloud-java/compare/v1.2.0...v1.3.0) (2023-01-16)
+
+
+### Features
+
+* this is a test of release tooling ([043302c](https://github.com/bcoe/google-cloud-java/commit/043302ca4dac707dfe718036865a7abb6fa62f42))
+
 ## [1.2.0](https://github.com/googleapis/google-cloud-java/compare/v1.1.0...v1.2.0) (2023-01-12)
 
 

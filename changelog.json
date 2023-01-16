@@ -1,4 +1,34 @@
 {
   "repository": "bcoe/google-cloud-java",
-  "entries": []
+  "entries": [
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "21e940ebab21b405c30688875f3e4d6f697a9463",
+          "message": "feat: added fancy new GRPC feature to eventarc"
+        }
+      ],
+      "version": "1.5.0",
+      "language": "java",
+      "artifactName": "com.google.cloud/google-cloud-eventarc",
+      "id": "9b736e41-6488-4c4a-997b-fece088d58bb",
+      "createTime": "2023-01-16T19:10:22.695Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "5589ac5cf567aee41a0475103c48444ec293bc36",
+          "message": "fix: fixed feature in root of channel"
+        }
+      ],
+      "version": "1.5.0",
+      "language": "java",
+      "artifactName": "com.google.cloud/google-cloud-channel",
+      "id": "e102868d-f13a-4184-a868-0a3b87388a5e",
+      "createTime": "2023-01-16T19:10:22.692Z"
+    }
+  ],
+  "updateTime": "2023-01-16T19:10:22.695Z"
 }

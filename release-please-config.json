@@ -1,5 +1,5 @@
 {
-  "bootstrap-sha": "483fb5490797bf8fc773c7992a61d099e5f3e7d0",
+  "bootstrap-sha": "d8da2b80fedd4dd3dc3ffabd18d434853c845af3",
   "release-type": "java-yoshi-mono-repo",
   "versioning": "always-bump-minor",
   "separate-pull-requests": false,

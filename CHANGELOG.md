@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.6.0](https://github.com/bcoe/google-cloud-java/compare/v1.5.0...v1.6.0) (2023-01-24)
+
+
+### Features
+
+* adds feature to life sciences ([#15](https://github.com/bcoe/google-cloud-java/issues/15)) ([5af4a4f](https://github.com/bcoe/google-cloud-java/commit/5af4a4f3edd5631e722ebdbecb2fc41896495b55))
+* an awesome new feature to the grpc.java file ([#10](https://github.com/bcoe/google-cloud-java/issues/10)) ([21af211](https://github.com/bcoe/google-cloud-java/commit/21af211bc05bb3e38f8d8daa6ae16cc8beba1e03))
+
 ## [1.5.0](https://github.com/bcoe/google-cloud-java/compare/v1.4.0...v1.5.0) (2023-01-16)
 
 

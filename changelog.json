@@ -5,6 +5,34 @@
       "changes": [
         {
           "type": "feat",
+          "sha": "21af211bc05bb3e38f8d8daa6ae16cc8beba1e03",
+          "message": "an awesome new feature to the grpc.java file (#10)"
+        }
+      ],
+      "version": "1.6.0",
+      "language": "JAVA",
+      "artifactName": "com.google.cloud:google-cloud-eventarc",
+      "id": "6900fce0-435d-449a-b62d-f315a22bdcc4",
+      "createTime": "2023-01-24T16:42:43.607Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "5af4a4f3edd5631e722ebdbecb2fc41896495b55",
+          "message": "adds feature to life sciences (#15)"
+        }
+      ],
+      "version": "1.6.0",
+      "language": "JAVA",
+      "artifactName": "com.google.cloud:google-cloud-life-sciences",
+      "id": "844f5ebd-5916-4065-b34b-275504eda60c",
+      "createTime": "2023-01-24T16:42:43.602Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
           "sha": "21e940ebab21b405c30688875f3e4d6f697a9463",
           "message": "feat: added fancy new GRPC feature to eventarc"
         }
@@ -30,5 +58,5 @@
       "createTime": "2023-01-16T19:10:22.692Z"
     }
   ],
-  "updateTime": "2023-01-16T19:10:22.695Z"
+  "updateTime": "2023-01-24T16:42:43.607Z"
 }
